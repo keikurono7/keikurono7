@@ -39,6 +39,7 @@ I’m currently learning AIML, React native, contributing to open source, etc
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keikurono7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
 # 📊 GitHub Stats:
