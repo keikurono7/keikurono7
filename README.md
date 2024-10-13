@@ -41,13 +41,9 @@ I’m currently learning AIML, React native, contributing to open source, etc
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 # 📊 GitHub Stats:
-</div>
-
 ![](https://github-readme-stats.vercel.app/api?username=keikurono7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=keikurono7&theme=tokyonight&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=keikurono7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
-
-<div align="center">
   
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=keikurono7&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
