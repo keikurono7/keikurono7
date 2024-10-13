@@ -1,5 +1,5 @@
 [![An image of @keikurono7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keikurono7)](https://holopin.io/@keikurono7)
-
+<p align="center">
 # 💫 About Me:
 I'm Madhusudan and I'm a full stack flutter, web developer<br>I’m currently majoring in AIML<br>I’m looking to collaborate on python and web related projects<br>I’m currently learning AIML, React native, contributing to open source etc<br>
 
@@ -27,3 +27,4 @@ I'm Madhusudan and I'm a full stack flutter, web developer<br>I’m currently ma
 [![](https://visitcount.itsvg.in/api?id=keikurono7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
