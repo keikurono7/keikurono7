@@ -7,7 +7,6 @@ I'm Madhusudan and I'm a full stack flutter, web developer
 I’m currently majoring in AIML  
 I’m looking to collaborate on python and web related projects  
 I’m currently learning AIML, React native, contributing to open source, etc  
-[![An image of @keikurono7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keikurono7)](https://holopin.io/@keikurono7)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/madhup704/) 
